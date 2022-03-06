@@ -6,9 +6,9 @@ public class ArithmaticCalculator {
 
     //using User input
     Scanner sc=new Scanner(System.in);
-    System.out.println("Enter the any value for num1!");
+    System.out.println("Enter the any value for num1?");
     int num1=sc.nextInt();
-    System.out.println("Enter the any value for num2!");
+    System.out.println("Enter the any value for num2?");
     int num2=sc.nextInt();
 
   //Addition Operation
